@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://dev-aghiles.github.io/card-react/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
